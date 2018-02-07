@@ -1,0 +1,14 @@
+<imageVerification version="1">
+  <locator>voeazul_com_br.BrowserWindow.OK</locator>
+  <matchAccuracy>100</matchAccuracy>
+  <imageData>iVBORw0KGgoAAAANSUhEUgAAAPAAAAAhCAYAAADnNyYYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVHhe7dNLisMwEEXR7KVH2f9Wej8JHgiMKH08ih4cw8Goqqb39f/3/gCZBAzBBAzBBAzBBAzBBAzBBAzBBAzBBAzBBAzBBBys+qq7ZrW/tK/acR4BhxpFNppfZrvLas95BBxoFdpoP5pfZjvOJeAwu6FVd9VsNud8Ag6zG1t1tzsjh4CDPI2tv1+9ySPgIE+D6+/v7/bd9+QRcJCnwfX37d3/ySXgIE+D6+/b18/ub7IIOMjT2Pr7/r2acz4Bh9mNrbqrZs1sx7kEHGY3tOqumjWzHecScKBVbKP9aN6s9pxHwKFGsY3ml9mu2bnhHAIOVn3VXbPaN7t3/J6AIZiAIZiAIZiAIZiAIZiAIZiAIZiAIdb78wUvryVd2vWqRQAAAABJRU5ErkJggg==</imageData>
+  <verificationMode>Full</verificationMode>
+  <excludeAreas />
+  <clientAreaOnly>false</clientAreaOnly>
+  <failedLocation>
+    <x>0</x>
+    <y>0</y>
+    <width>0</width>
+    <height>0</height>
+  </failedLocation>
+</imageVerification>

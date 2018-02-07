@@ -1,0 +1,5 @@
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\MTM01 - Azul - Legado\bin\Debug\MTM01 - Azul - Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\MTM01 - Azul - Legado\bin\Debug\MTM01 - Azul - Legado.pdb
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\MTM01 - Azul - Legado\obj\Debug\MTM01 - Azul - Legado.csproj.CoreCompileInputs.cache
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\MTM01 - Azul - Legado\obj\Debug\MTM01 - Azul - Legado.dll
+C:\Users\nimco\source\repos\MTM01 - Azul - Legado\MTM01 - Azul - Legado\obj\Debug\MTM01 - Azul - Legado.pdb

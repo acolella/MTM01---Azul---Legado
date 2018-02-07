@@ -1,0 +1,13 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="voeazul_com_br" locator="//BrowserApplication" urlPattern="*voeazul.com.br*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="Atenção!" locator="//H1[@textContents=&apos;Atenção!&apos;]"/>
+      <ObjectMapEntry id="icon icon-alert" locator="//SPAN[@class=&apos;icon icon-alert&apos;]"/>
+      <ObjectMapEntry id="login-username" locator="//INPUT[@id=&apos;login-username&apos;]"/>
+      <ObjectMapEntry id="OK" locator="//BUTTON[@textContents=&apos;OK&apos;][2]"/>
+      <ObjectMapEntry id="OK2" locator="//BUTTON[@textContents=&apos;OK&apos;]"/>
+      <ObjectMapEntry id="password" locator="//INPUT[@name=&apos;password&apos;]"/>
+      <ObjectMapEntry id="Se o seu login usual" locator="//DIV[@textContents=&apos;Se o seu login usual*&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>
